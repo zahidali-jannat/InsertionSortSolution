@@ -1,0 +1,2 @@
+# InsertionSortSolution
+SolutionOfInsertionSort
